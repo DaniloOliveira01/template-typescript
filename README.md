@@ -1,3 +1,3 @@
 # APIecommerce-hm 
 
-🤖 - Começando a API do e-commerce H.M
+🤖 - Começando a API do e-commerce H.M.
